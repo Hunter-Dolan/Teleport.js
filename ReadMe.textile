@@ -15,13 +15,11 @@ include('js/script.js');
 </code>
 
 
-----------------------------------------------------------
 
 h2. Why?
 
 p. Why are you asking this question, I'm a PHP guy... it sooths the sole to use the good old import() function. It's much faster to write.
 
------------------------------------------------------------
 
 h2. License
 
