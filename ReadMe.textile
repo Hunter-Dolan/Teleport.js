@@ -46,8 +46,9 @@ bc..            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
   0. You just DO WHAT THE FUCK YOU WANT TO. 
 
 
+
 h2. Who can I think for all this?
 
-p. Okay maybe I'm just imagining the above line... but the guy who did write all of this
+p. Okay maybe I'm just imagining the above line... but the guy who did write all of this is
 
-p. Hunter Dolan ("@hunterhdolan":http://twitter.com/hunterhdolan  |  "Website":http://madebyhd.us/)
+p. **Hunter Dolan** ("@hunterhdolan":http://twitter.com/hunterhdolan  |  "Website":http://madebyhd.us/)
