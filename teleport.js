@@ -1,0 +1,1 @@
+function teleport(script){var head = document.getElementsByTagName('head')[0];script_tag = document.createElement('script');script_tag.src = script;script_tag.type = 'text/javascript';head.appendChild(script_tag)}function include(script){teleport(script)}

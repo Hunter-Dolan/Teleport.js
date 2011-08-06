@@ -1,0 +1,56 @@
+h1. Teleport.js
+
+h3. The missing import() function for JavaScript
+
+h2. Example
+<code>
+teleport('js/script.js');
+</code>
+
+
+p. Or for all you PHP heads out there...
+
+<code>
+include('js/script.js');
+</code>
+
+
+----------------------------------------------------------
+
+h2. Why?
+
+p. Why are you asking this question, I'm a PHP guy... it sooths the sole to use the good old import() function. It's much faster to write.
+
+-----------------------------------------------------------
+
+h2. License
+
+p. WTFPL (http://sam.zoy.org/wtfpl/)
+
+p. Listen guys... it's a line of JS... do what ever the heck you want with it!
+
+p. But so nobody sues me... 
+
+<code>
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+                    Version 2, December 2004 
+
+ Copyright (C) 2004 Sam Hocevar <sam@hocevar.net> 
+
+ Everyone is permitted to copy and distribute verbatim or modified 
+ copies of this license document, and changing it is allowed as long 
+ as the name is changed. 
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
+
+  0. You just DO WHAT THE FUCK YOU WANT TO. 
+</code>
+
+----------------------------------------------------------
+
+h2. Who can I think for all this?
+
+p. Okay maybe I'm just imagining the above line... but the guy who did write all of this
+
+p. Hunter Dolan ("@hunterhdolan":http://twitter.com/hunterhdolan  |  "Website":http://madebyhd.us/)
