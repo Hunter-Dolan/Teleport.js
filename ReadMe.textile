@@ -31,8 +31,7 @@ p. Listen guys... it's a line of JS... do what ever the heck you want with it!
 
 p. But so nobody sues me... 
 
-bc..
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+bc..            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
                     Version 2, December 2004 
 
  Copyright (C) 2004 Sam Hocevar <sam@hocevar.net> 
