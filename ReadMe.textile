@@ -4,11 +4,13 @@ h3. The missing import() function for JavaScript
 
 h2. Example
 <code>
-teleport('js/script.js');
+    teleport(['script.js', 'http://code.jquery.com/jquery-latest.min.js'], function() {
+        alert('scripts added.');
+    });
 </code>
 
 
-p. Or for all you PHP heads out there...
+p. Or for a simple include (and for all you php heads out there)
 
 <code>
 include('js/script.js');
@@ -18,7 +20,7 @@ include('js/script.js');
 
 h2. Why?
 
-p. Why are you asking this question, I'm a PHP guy... it sooths the sole to use the good old import() function. It's much faster to write.
+p. Why are you asking this question, I'm a PHP guy... it sooths the sole to use the good old include() function. It's much faster to write.
 
 
 h2. License
@@ -50,3 +52,5 @@ h2. Who can I thank for all this?
 p. Okay maybe I'm just imagining the above line... but the guy who did write all of this is
 
 p. **Hunter Dolan** ("@hunterhdolan":http://twitter.com/hunterhdolan  |  "Website":http://madebyhd.us/)
+
+p. **"@visualidiot":http://twitter.com/visualidiot
