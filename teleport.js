@@ -1,12 +1,12 @@
 /*
  *      Teleport.JS
- *      Originally by @hunterhdolan, changes by @visualidiot.
+ *      Originally by @hunterhdolan, contributions by @visualidiot and @thomasethajar
  */
  
 function teleport(what, callback) {
 
     //  Check if it's an array…
-    if(what.toString().indexOf('Array') == -1) {
+	if(Object.prototype.toString.apply(what) === '[object Array]')  {
         for(i = 0; i < what.length; i++) {
             import(what[i]);
         }
